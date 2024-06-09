@@ -4,4 +4,5 @@ __pycache__/
 data/raw/*
 data/processed/*
 logs/
+notebooks/.ipynb_checkpoints/*.*
 
