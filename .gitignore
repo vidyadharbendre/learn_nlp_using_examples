@@ -5,4 +5,5 @@ data/raw/*
 data/processed/*
 logs/
 notebooks/.ipynb_checkpoints/*.*
-
+GoogleNews-vectors-negative300.bin
+GoogleNews-vectors-negative300.bin.zip
