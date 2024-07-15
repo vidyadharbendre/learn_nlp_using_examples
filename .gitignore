@@ -3,6 +3,7 @@ __pycache__/
 .DS_Store
 data/raw/*
 data/processed/*
+data/imdb_reviews.csv
 logs/
 notebooks/.ipynb_checkpoints/*.*
 GoogleNews-vectors-negative300.bin
